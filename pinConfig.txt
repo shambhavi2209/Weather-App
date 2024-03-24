@@ -1,0 +1,19 @@
+Dht11 
+•	Data - P4
+•	VCC - 3.3V
+•	GND - GND
+
+BMP180
+•	Vin - 3.3V
+•	GND - GND
+•	SCL - P22
+•	SDA - P21
+
+LDR
+•	Data - P34
+•	GND - GND
+
+Servo Motor
+•	VCC - 5V
+•	GND - GND
+•	Data - P13
